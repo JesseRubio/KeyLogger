@@ -5,14 +5,14 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JesseRubio/KeyLogger/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-### KeyLogger Tool
+# KeyLogger Tool
 
 -  simple and fast key logger tool that records the keys a user types on a keyboard.
 -  script written  **Python**
 
-### Installation
+## Installation
 - [x] **git clone this repo**
 - [x] ***cd KeyLogger*** 
 - [x] **python3 KeyLogger.py**
 
-***donot use for illegal activities***
+****donot use for illegal activities****
